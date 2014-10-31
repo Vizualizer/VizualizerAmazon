@@ -25,10 +25,10 @@
 /**
  * 商品情報を更新するためのバッチです。
  *
- * @package VizualizerAffiliate
+ * @package VizualizerAmazon
  * @author Naohisa Minagawa <info@vizualizer.jp>
  */
-class VizualizerAffiliate_Batch_AutoContract extends Vizualizer_Plugin_Batch
+class VizualizerAmazon_Batch_UpdateProduct extends Vizualizer_Plugin_Batch
 {
 
     public function getName()
